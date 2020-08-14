@@ -1,0 +1,120 @@
+libSYS/src/genericStds.lo: libSYS/src/genericStds.cpp \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/math.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/cdefs.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/cdefs_elf.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/android/api-level.h \
+ /Users/plx/Library/Android/android-ndk-r13b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include-fixed/limits.h \
+ /Users/plx/Library/Android/android-ndk-r13b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include-fixed/syslimits.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/limits.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/limits.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/linux/limits.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/syslimits.h \
+ libSYS/include/genericStds.h libSYS/include/machine_type.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/assert.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/stdlib.h \
+ /Users/plx/Library/Android/android-ndk-r13b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stddef.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/string.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/malloc.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/xlocale.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/alloca.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/strings.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/types.h \
+ /Users/plx/Library/Android/android-ndk-r13b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stdint.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/stdint.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/machine/wchar_limits.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/linux/types.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm/types.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm-generic/types.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm-generic/int-ll64.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm/bitsperlong.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm-generic/bitsperlong.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/linux/posix_types.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/linux/stddef.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/linux/compiler.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm/posix_types.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm/posix_types_64.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm-generic/posix_types.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/sysmacros.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/memory.h \
+ /Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/stdio.h \
+ /Users/plx/Library/Android/android-ndk-r13b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stdarg.h
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/math.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/cdefs.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/cdefs_elf.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/android/api-level.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include-fixed/limits.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include-fixed/syslimits.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/limits.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/limits.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/linux/limits.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/syslimits.h:
+
+libSYS/include/genericStds.h:
+
+libSYS/include/machine_type.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/assert.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/stdlib.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stddef.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/string.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/malloc.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/xlocale.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/alloca.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/strings.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/types.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stdint.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/stdint.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/machine/wchar_limits.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/linux/types.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm/types.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm-generic/types.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm-generic/int-ll64.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm/bitsperlong.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm-generic/bitsperlong.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/linux/posix_types.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/linux/stddef.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/linux/compiler.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm/posix_types.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm/posix_types_64.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/asm-generic/posix_types.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/sys/sysmacros.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/memory.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/platforms/android-21/arch-x86_64/usr/include/stdio.h:
+
+/Users/plx/Library/Android/android-ndk-r13b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stdarg.h:

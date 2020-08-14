@@ -1,0 +1,51 @@
+{
+  "buildFiles": [
+    "/Users/plx/androidworkspace/VideoProject/video_recorder/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/plx/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/plx/androidworkspace/VideoProject/video_recorder/.cxx/cmake/debug/x86 --target clean"
+  ],
+  "libraries": {
+    "avformat-Debug-x86": {
+      "artifactName": "avformat",
+      "abi": "x86",
+      "output": "/Users/plx/androidworkspace/VideoProject/video_recorder/src/main/jniLibs/x86/libavformat.so"
+    },
+    "avutil-Debug-x86": {
+      "artifactName": "avutil",
+      "abi": "x86",
+      "output": "/Users/plx/androidworkspace/VideoProject/video_recorder/src/main/jniLibs/x86/libavutil.so"
+    },
+    "swresample-Debug-x86": {
+      "artifactName": "swresample",
+      "abi": "x86",
+      "output": "/Users/plx/androidworkspace/VideoProject/video_recorder/src/main/jniLibs/x86/libswresample.so"
+    },
+    "ffmpeg-lib-Debug-x86": {
+      "artifactName": "ffmpeg-lib",
+      "buildCommand": "/Users/plx/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/plx/androidworkspace/VideoProject/video_recorder/.cxx/cmake/debug/x86 --target ffmpeg-lib",
+      "abi": "x86",
+      "output": "/Users/plx/androidworkspace/VideoProject/video_recorder/build/intermediates/cmake/debug/obj/x86/libffmpeg-lib.so"
+    },
+    "swscale-Debug-x86": {
+      "artifactName": "swscale",
+      "abi": "x86",
+      "output": "/Users/plx/androidworkspace/VideoProject/video_recorder/src/main/jniLibs/x86/libswscale.so"
+    },
+    "avfilter-Debug-x86": {
+      "artifactName": "avfilter",
+      "abi": "x86",
+      "output": "/Users/plx/androidworkspace/VideoProject/video_recorder/src/main/jniLibs/x86/libavfilter.so"
+    },
+    "fdk-aac-Debug-x86": {
+      "artifactName": "fdk-aac",
+      "abi": "x86",
+      "output": "/Users/plx/androidworkspace/VideoProject/video_recorder/src/main/jniLibs/x86/libfdk-aac.so"
+    },
+    "avcodec-Debug-x86": {
+      "artifactName": "avcodec",
+      "abi": "x86",
+      "output": "/Users/plx/androidworkspace/VideoProject/video_recorder/src/main/jniLibs/x86/libavcodec.so"
+    }
+  }
+}
